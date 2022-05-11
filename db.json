@@ -1,0 +1,161 @@
+{
+    "Student" : [
+        {
+           
+            "name"           : "Akramul",
+            "age"            : 27,
+            "Scholl name"    :"Nyc Private High Schools",
+            "Roll"           :10,
+            "Class name"     :"six",
+            "Gender"         :"Mail"
+        },
+        {
+            "name"           : "Shakil",
+            "age"            : 25,
+            "Scholl name"    :"Nyc  High Schools",
+            "Roll"           :12,
+            "Class name"     :"seven",
+            "Gender"         :"Mail"
+        },
+        {
+            "name"           : "Emon",
+            "age"            : 20,
+            "Scholl name"    :"Nyc Private High Schools",
+            "Roll"           :13,
+            "Class name"     :"eghit",
+            "Gender"         :"Mail"
+        },
+        {
+            "name"           : "salma",
+            "age"            : 21,
+            "Scholl name"    :"Nyc Private High Schools",
+            "Roll"           :15,
+            "Class name"     :"eghit",
+            "Gender"         :"Femail"
+        },
+        {
+            "name"           : "Adore",
+            "age"            : 22,
+            "Scholl name"    :"Nyc Private High Schools",
+            "Roll"           :18,
+            "Class name"     :"Nine",
+            "Gender"         :"Femail"
+        },
+        {
+            "name"           : "Mina",
+            "age"            : 23,
+            "Scholl name"    :"Nyc Private High Schools",
+            "Roll"           :20,
+            "Class name"     :"Ten",
+            "Gender"         :"Femail"
+        },  {
+            "name"           : "Emon",
+            "age"            : 20,
+            "Scholl name"    :"Nyc Private High Schools",
+            "Roll"           :13,
+            "Class name"     :"eghit",
+            "Gender"         :"Mail"
+        },
+        {
+            "name"           : "salma",
+            "age"            : 21,
+            "Scholl name"    :"Nyc Private High Schools",
+            "Roll"           :15,
+            "Class name"     :"eghit",
+            "Gender"         :"Femail"
+        },
+        {
+            "name"           : "Sojol",
+            "age"            : 29,
+            "Scholl name"    :"Nyc Private High Schools",
+            "Roll"           :29,
+            "Class name"     :"Nine",
+            "Gender"         :"mail"
+        },
+        {
+            "name"           : "Mina",
+            "age"            : 30,
+            "Scholl name"    :"Nyc Private High Schools",
+            "Roll"           :50,
+            "Class name"     :"six",
+            "Gender"         :"Femail"
+        }
+    ],
+
+    "Tecaher" : [
+        {
+            "id"    : 1,
+            "name"  : "Akramul",
+            "age"   : 27,
+            "Subject" :"English Teaceher",
+            "Location": "Dhaka"
+    
+        },
+        {
+            "id"    : 2,
+            "name"  : "MD : Asadul",
+            "age"   : 37,
+            "Subject" :"Bangla Teaceher",
+            "Location": "Rajshahi"
+        },
+        {
+            "id"    : 3,
+            "name"  : "Sajahan",
+            "age"   : 47,
+            "Subject" :"Manajment Teaceher",
+            "Location": "Collmil"
+        },
+        {
+            "id"    : 4,
+            "name"  : "MD Rashad rorim ",
+            "age"   : 57,
+            "SuSubject" :"Math Teaceher",
+            "Location": "Boresal"
+        },
+        {
+            "id"    : 5,
+            "name"  : "Sajahan",
+            "age"   : 87,
+            "SuSubject" :"socal Teaceher",
+            "Location": "Dinapur"
+        },
+        {
+            "id"    : 6,
+            "name"  : "Shopn",
+            "age"   : 50,
+            "SuSubject" :"English Teaceher",
+            "Location": "Dhaka"
+    
+        },
+        {
+            "id"    : 7,
+            "name"  : "MD : kawsar",
+            "age"   : 37,
+            "SuSubject" :" Teaceher",
+            "Location": "Rajshahi"
+        },
+        {
+            "id"    : 8,
+            "name"  : "Mst.adore",
+            "age"   : 33,
+            "Subject" :"Manajment Teaceher",
+            "Location": "Faridpu"
+        },
+        {
+            "id"    : 9,
+            "name"  : "MD Rashad rorim ",
+            "age"   : 60,
+            "Subject" :"Math Teaceher",
+            "Location": "Barisal"
+        },
+        {
+            "id"    : 10,
+            "name"  : "Sajahan",
+            "age"   : 87,
+            "Subject" :"socal Teaceher",
+            "Location": "Khulna "
+        }
+    ]
+    
+    
+}
